@@ -1,0 +1,12 @@
+/* por etiqueta */
+body{
+    background-color: aqua;
+}
+/* por clase */
+.container{
+    background-color: yellow;
+}
+/* por id */
+#identificador{
+    background-color: black;
+}
